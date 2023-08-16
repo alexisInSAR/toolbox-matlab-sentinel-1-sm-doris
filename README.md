@@ -32,13 +32,13 @@ System requirements:
 # Installation 
 
 1) Installation of Doris 5.0: https://github.com/TUDelftGeodesy/Doris
-2) Downloading of the Toolbox
-3) Downloading of the files from the Mathworks website
+2) Download the Toolbox
+3) Download the required files from the Mathworks website
 
 # How to compute a S1 StripMap interferogram?
 
-1) Downloading of two S1 StripMap images 
-2) Downloading of the orbit files (optionnal)
+1) Download the two S1 StripMap images 
+2) Download the orbit files (optionnal)
 3) Design of the full input card or the incomplete input card
 4) In Matlab:
 
